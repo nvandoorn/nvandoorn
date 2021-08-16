@@ -1,1 +1,1 @@
-[nv.delivery/git](https://nv.delivery/git)
+[git.nv.delivery/git](https://git.nv.delivery)
